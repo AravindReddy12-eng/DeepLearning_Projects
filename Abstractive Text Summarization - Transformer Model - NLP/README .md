@@ -1,6 +1,6 @@
 # Abstractive Text Summarization - Transformer Model - NLP
 
-**Complete Video Tutorial:** https://youtu.be/Lh7KUFu9Dy0
+
 
 # Project Information
 
